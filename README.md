@@ -1,2 +1,2 @@
 # CV
-A basci personal Website.
+A basic personal Website.
